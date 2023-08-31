@@ -1,0 +1,2 @@
+# FancyTrades
+player trades plugin
