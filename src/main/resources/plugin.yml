@@ -1,0 +1,11 @@
+name: FancyTrades
+version: '${project.version}'
+main: org.zaksen.fancytrades.FancyTrades
+api-version: '1.20'
+authors: [Zaksen_]
+commands:
+  trade:
+    description: send trade to player
+    aliases:
+      - trd
+    usage: /trade <player>
