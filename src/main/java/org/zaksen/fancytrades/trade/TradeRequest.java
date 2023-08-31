@@ -2,7 +2,6 @@ package org.zaksen.fancytrades.trade;
 
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
-import org.bukkit.scheduler.BukkitTask;
 import org.zaksen.fancytrades.FancyTrades;
 import org.zaksen.fancytrades.gui.TradeMenu;
 
